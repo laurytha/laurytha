@@ -1,6 +1,6 @@
 <h1 align="center">Oie 👋</h1>
 
-<h2 align="center">A. Laurytha Carlos G.</h2>
+<h2 align="center"> Laurytha Carlos </h2>
 
 - ⚡ Notório saber em Metodologia Científica e da Pesquisa
 - 👩‍💼 Experiência em análise e interpretação de dados em pesquisas sociais
