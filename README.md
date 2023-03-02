@@ -4,8 +4,8 @@
 
 - ⚡ Notório saber em Metodologia Científica e da Pesquisa
 - 👩‍💼 Experiência em análise e interpretação de dados em pesquisas sociais
-- 📚 Graduanda em ADS pela UNIPÊ
-- 👩‍🏫 Professora voluntária em Escola de Computação Solidária, UNIPÊ
+- 📚 Graduada em ADS pela UNIPÊ
+- 👩‍🏫 Professora
 - 📊 Analista voluntária em Fábrica de Software, UNIPÊ
 
 - 💬 Aproveite sua vida de uma forma diferente. Seja grato por mais um dia!
