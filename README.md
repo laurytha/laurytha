@@ -16,8 +16,8 @@ HABILIDADES
 - Pacote Microsoft Office em nível avançado
 
 FORMAÇÃO ACADÊMICA
-<p>Pós Graduação em Ciências de Dados e Inteligência Artificial. UNINTER. Conclusão Prevista 06/2024</p>
-<p>Tecnólogo Análise e Desenvolvimento de Sistemas. Unipê. Conclusão 12/2022</p>
+- Pós Graduação em Ciências de Dados e Inteligência Artificial. UNINTER. Conclusão Prevista 06/2024
+- Tecnólogo em Análise e Desenvolvimento de Sistemas. Unipê. Conclusão 12/2022
 
 Compartilho aqui alguns projetos de trabalho e estudo.
 
