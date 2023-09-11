@@ -21,9 +21,9 @@ FORMAÇÃO ACADÊMICA
 
 Compartilho aqui alguns projetos de trabalho e estudo.
 
-Portfólio: https://sites.google.com/view/powermetricslaurytha/início 
-Medium: https://medium.com/@annalaurytha.c
-Kaggle: https://www.kaggle.com/laurythacarlos
+- Portfólio: https://sites.google.com/view/powermetricslaurytha/início 
+- Medium: https://medium.com/@annalaurytha.c
+- Kaggle: https://www.kaggle.com/laurythacarlos
 
 Se ligue nessa dica...
 - 💬 Aproveite sua vida de uma forma diferente. Seja grato por mais um dia!
